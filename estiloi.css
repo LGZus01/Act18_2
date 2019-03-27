@@ -1,0 +1,45 @@
+#main-container{
+	margin: 50px auto;
+	width: 500px;
+}
+table{
+	border:1px solid;
+	border-collapse: collapse;
+}
+td{
+	text-align: center;
+	border:1px solid;
+}
+caption{
+	border:1px solid;
+}
+table #colum1{
+	background-color: #960202;
+}
+table #colum2{
+	background-color: #D1F505;
+}
+table #colum3{
+	background-color: #16D06D;
+}
+table #colum4{
+	background-color: #0D34C1;
+}
+table #colum5{
+	background-color: #8A0FB0;
+}
+table #colum6{
+	background-color: #BB0555;
+}
+table #colum7{
+	background-color: #EB5A06;
+}
+table #colum8{
+	background-color: #1EAA06;
+}
+table #colum9{
+	background-color: #17F066;
+}
+table #colum10{
+	background-color: #5D4907;
+}
